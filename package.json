@@ -1,0 +1,12 @@
+{
+  "name": "addon-study",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "GStarP",
+  "license": "ISC",
+  "dependencies": {
+    "bindings": "^1.5.0",
+    "node-addon-api": "^6.0.0"
+  },
+  "gypfile": true
+}
